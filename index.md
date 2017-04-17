@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Exciting Page
 ---
 ## Hi There, and welcome!
